@@ -23,7 +23,7 @@ setInterval(() => {
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'd5b969a389msh7cccf7186dec337p19ba90jsn586c98339767',
+		'X-RapidAPI-Key': 'api_key',
 		'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
 	}
 };
