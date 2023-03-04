@@ -12,8 +12,11 @@ Automatically updates the weather information every 1 hour .
 ## Technologies Used
 
 HTML
+
 CSS
+
 JavaScript
+
 Bootstrap
 
 ## Usage
