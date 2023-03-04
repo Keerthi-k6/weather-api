@@ -1,4 +1,4 @@
-# weather-api
+# WeatherApi
 
 This is a simple weather app that displays the current weather information of a city. It uses the Weather API to fetch the data and displays it on the webpage.
 
